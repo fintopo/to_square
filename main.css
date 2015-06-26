@@ -1,0 +1,28 @@
+﻿body {
+	font-family: 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ','Meiryo','ＭＳ Ｐゴシック',sans-serif;
+}
+
+input,
+textarea {
+  font-size: 16px!important;
+}
+
+/* foot */
+
+#foot {
+  border-top: 1px solid #ddd;
+	margin: 5px 0px;
+	margin-top: 20px;
+	padding: 5px 10px;
+}
+
+/* */
+
+.age {
+  font-size: large;
+  height: 34px;
+}
+
+.age p {
+	line-height: 34px;
+}
